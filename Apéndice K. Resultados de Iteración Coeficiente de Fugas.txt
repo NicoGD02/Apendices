@@ -1,0 +1,305 @@
+Coeficiente emisor: 0.0000
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 49.864105224609375
+RMSE Caudal Tubería 2439: 42.43
+
+Coeficiente emisor: 0.0002
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 50.834808349609375
+RMSE Caudal Tubería 2439: 41.46
+
+Coeficiente emisor: 0.0004
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 51.804317474365234
+RMSE Caudal Tubería 2439: 40.49
+
+Coeficiente emisor: 0.0006
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 52.7720947265625
+RMSE Caudal Tubería 2439: 39.52
+
+Coeficiente emisor: 0.0008
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 53.72563171386719
+RMSE Caudal Tubería 2439: 38.56
+
+Coeficiente emisor: 0.0010
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 54.6909065246582
+RMSE Caudal Tubería 2439: 37.60
+
+Coeficiente emisor: 0.0012
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 55.65513229370117
+RMSE Caudal Tubería 2439: 36.63
+
+Coeficiente emisor: 0.0014
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 56.61799621582031
+RMSE Caudal Tubería 2439: 35.67
+
+Coeficiente emisor: 0.0016
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 57.57957458496094
+RMSE Caudal Tubería 2439: 34.71
+
+Coeficiente emisor: 0.0018
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 58.53972625732422
+RMSE Caudal Tubería 2439: 33.75
+
+Coeficiente emisor: 0.0020
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 59.49958801269531
+RMSE Caudal Tubería 2439: 32.79
+
+Coeficiente emisor: 0.0022
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 60.456573486328125
+RMSE Caudal Tubería 2439: 31.83
+
+Coeficiente emisor: 0.0024
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 61.41212844848633
+RMSE Caudal Tubería 2439: 30.88
+
+Coeficiente emisor: 0.0026
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 62.3661994934082
+RMSE Caudal Tubería 2439: 29.92
+
+Coeficiente emisor: 0.0028
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 63.3187255859375
+RMSE Caudal Tubería 2439: 28.97
+
+Coeficiente emisor: 0.0030
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 64.26966094970703
+RMSE Caudal Tubería 2439: 28.02
+
+Coeficiente emisor: 0.0032
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 65.2189712524414
+RMSE Caudal Tubería 2439: 27.07
+
+Coeficiente emisor: 0.0034
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 66.16661834716797
+RMSE Caudal Tubería 2439: 26.12
+
+Coeficiente emisor: 0.0036
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 67.1125717163086
+RMSE Caudal Tubería 2439: 25.18
+
+Coeficiente emisor: 0.0038
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 68.05682373046875
+RMSE Caudal Tubería 2439: 24.23
+
+Coeficiente emisor: 0.0040
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 69.01327514648438
+RMSE Caudal Tubería 2439: 23.28
+
+Coeficiente emisor: 0.0042
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 69.9539566040039
+RMSE Caudal Tubería 2439: 22.34
+
+Coeficiente emisor: 0.0044
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 70.8928451538086
+RMSE Caudal Tubería 2439: 21.40
+
+Coeficiente emisor: 0.0046
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 71.83143615722656
+RMSE Caudal Tubería 2439: 20.46
+
+Coeficiente emisor: 0.0048
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 72.7663803100586
+RMSE Caudal Tubería 2439: 19.52
+
+Coeficiente emisor: 0.0050
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 73.6994400024414
+RMSE Caudal Tubería 2439: 18.59
+
+Coeficiente emisor: 0.0052
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 74.63060760498047
+RMSE Caudal Tubería 2439: 17.66
+
+Coeficiente emisor: 0.0054
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 75.55980682373047
+RMSE Caudal Tubería 2439: 16.73
+
+Coeficiente emisor: 0.0056
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 76.48702239990234
+RMSE Caudal Tubería 2439: 15.80
+
+Coeficiente emisor: 0.0058
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 77.41221618652344
+RMSE Caudal Tubería 2439: 14.88
+
+Coeficiente emisor: 0.0060
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 78.33538055419922
+RMSE Caudal Tubería 2439: 13.95
+
+Coeficiente emisor: 0.0062
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 79.25647735595703
+RMSE Caudal Tubería 2439: 13.03
+
+Coeficiente emisor: 0.0064
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 80.17549133300781
+RMSE Caudal Tubería 2439: 12.11
+
+Coeficiente emisor: 0.0066
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 81.09236145019531
+RMSE Caudal Tubería 2439: 11.20
+
+Coeficiente emisor: 0.0068
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 82.0071029663086
+RMSE Caudal Tubería 2439: 10.28
+
+Coeficiente emisor: 0.0070
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 82.91964721679688
+RMSE Caudal Tubería 2439: 9.37
+
+Coeficiente emisor: 0.0072
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 83.83000946044922
+RMSE Caudal Tubería 2439: 8.46
+
+Coeficiente emisor: 0.0074
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 84.73814392089844
+RMSE Caudal Tubería 2439: 7.55
+
+Coeficiente emisor: 0.0076
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 85.64404296875
+RMSE Caudal Tubería 2439: 6.65
+
+Coeficiente emisor: 0.0078
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 86.54769897460938
+RMSE Caudal Tubería 2439: 5.74
+
+Coeficiente emisor: 0.0080
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 87.44906616210938
+RMSE Caudal Tubería 2439: 4.84
+
+Coeficiente emisor: 0.0082
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 88.34807586669922
+RMSE Caudal Tubería 2439: 3.94
+
+Coeficiente emisor: 0.0084
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 89.24470520019531
+RMSE Caudal Tubería 2439: 3.05
+
+Coeficiente emisor: 0.0086
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 90.13919067382812
+RMSE Caudal Tubería 2439: 2.15
+
+Coeficiente emisor: 0.0088
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 91.03105163574219
+RMSE Caudal Tubería 2439: 1.26
+
+Coeficiente emisor: 0.0090
+Caudal Observado Tubería 2439: 92.29
+Caudal Promedio Simulado Tubería 2439: 91.92058563232422
+RMSE Caudal Tubería 2439: 0.37
+
+RMSE de caudales para la tubería 2439 dentro del 0.5%. Deteniendo la variación del coeficiente emisor.
+Coeficiente emisor: 0.0000
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 30.894615173339844
+RMSE Caudal Tubería 1183: 9.22
+
+Coeficiente emisor: 0.0002
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 31.69988250732422
+RMSE Caudal Tubería 1183: 8.41
+
+Coeficiente emisor: 0.0004
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 33.75508499145508
+RMSE Caudal Tubería 1183: 6.35
+
+Coeficiente emisor: 0.0006
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 33.3115119934082
+RMSE Caudal Tubería 1183: 6.80
+
+Coeficiente emisor: 0.0008
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 34.09815979003906
+RMSE Caudal Tubería 1183: 6.01
+
+Coeficiente emisor: 0.0010
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 34.88752365112305
+RMSE Caudal Tubería 1183: 5.22
+
+Coeficiente emisor: 0.0012
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 35.66999053955078
+RMSE Caudal Tubería 1183: 4.44
+
+Coeficiente emisor: 0.0014
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 36.447540283203125
+RMSE Caudal Tubería 1183: 3.66
+
+Coeficiente emisor: 0.0016
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 37.22371292114258
+RMSE Caudal Tubería 1183: 2.89
+
+Coeficiente emisor: 0.0018
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 37.98960494995117
+RMSE Caudal Tubería 1183: 2.12
+
+Coeficiente emisor: 0.0020
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 38.7499885559082
+RMSE Caudal Tubería 1183: 1.36
+
+Coeficiente emisor: 0.0022
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 39.50363540649414
+RMSE Caudal Tubería 1183: 0.61
+
+Coeficiente emisor: 0.0024
+Caudal Observado Tubería 1183: 40.11
+Caudal Promedio Simulado Tubería 1183: 40.247528076171875
+RMSE Caudal Tubería 1183: 0.14
+
+RMSE de caudales para la tubería 1183 dentro del 0.5%. Deteniendo la variación del coeficiente emisor.
+Mejor coeficiente emisor para caudal en la tubería 2439: 0.0090
+RMSE para caudal en la tubería 2439: 0.37
+
+Mejor coeficiente emisor para caudal en la tubería 1183: 0.0024
+RMSE para caudal en la tubería 1183: 0.14
+Simulación final completada con éxito.
+RMSE de presiones: 8.44
+R^2 de presiones: 0.92
